@@ -4,7 +4,7 @@
 
 > **"Low PE Ratio = cheap stock = buy."**
 > 
-> Itu adalah asumsi umum investor pemula. Proyek ini membuktikan bahwa mengevaluasi saham hanya dari satu metrik bisa sangat menjebak. Menggunakan data 950+ saham di Bursa Efek Indonesia, saya menerapkan metode pengambilan keputusan multi-kriteria untuk menemukan permata tersembunyi yang sebenarnya.
+> Itu adalah asumsi umum bagi investor pemula. Proyek ini membuktikan bahwa mengevaluasi saham hanya dari satu metrik bisa sangat menjebak. Menggunakan data 950+ saham dari Bursa Efek Indonesia, saya menerapkan metode pengambilan keputusan multi-kriteria untuk menemukan "hidden gem" yang sebenarnya.
 
 ---
 
@@ -29,7 +29,7 @@ Berikut adalah profil dari 5 saham teratas berdasarkan skor TOPSIS. Semakin luas
 
 ---
 
-## 🚀 Key Results: TOPSIS vs Naive PE-Only
+## Key Results: TOPSIS vs Naive PE-Only
 Perbandingan antara Top 20 Saham versi TOPSIS dengan Top 20 Saham yang hanya dipilih berdasarkan PE Ratio terendah:
 
 | Metric | TOPSIS Selection | PE-Only Selection |
